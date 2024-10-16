@@ -23,4 +23,5 @@ Technologies Used
 - CSS: Styling the website to provide a modern and user-friendly design. 
 - JavaScript: Adding interactive elements like smooth scrolling and animations.
 
-
+#LINK DEMO
+https://dynamic-mochi-0f33dd.netlify.app/
